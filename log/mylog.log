@@ -1,0 +1,8 @@
+2019-11-12 10:55:16,497 INFO [root] [Test_iHRM_Emp.py(test_add:31)] - 添加员工的日志信息
+2019-11-12 10:55:16,513 INFO [root] [Test_iHRM_Emp.py(test_update:45)] - 修改员工的日志信息
+2019-11-12 10:55:16,544 INFO [root] [Test_iHRM_Emp.py(test_get:56)] - 查询员工的日志信息
+2019-11-12 10:55:16,559 INFO [root] [Test_iHRM_Emp.py(test_delete:66)] - 删除员工的日志信息
+2019-11-12 10:58:05,695 INFO [root] [Test_iHRM_Emp.py(test_add:31)] - 添加员工的日志信息
+2019-11-12 10:58:05,726 INFO [root] [Test_iHRM_Emp.py(test_update:45)] - 修改员工的日志信息
+2019-11-12 10:58:05,742 INFO [root] [Test_iHRM_Emp.py(test_get:56)] - 查询员工的日志信息
+2019-11-12 10:58:05,773 INFO [root] [Test_iHRM_Emp.py(test_delete:66)] - 删除员工的日志信息
